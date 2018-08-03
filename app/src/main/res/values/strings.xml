@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">360h5</string>
+    <string name="details">chi tiết</string>
+
+    <string name="topic_title">Chủ đề:</string>
+    <string name="full_topic_format">%1$s %2$s</string>
+    <string name="players">Người chơi</string>
+    <string name="full_play_times_format">%1$s %2$s</string>
+    <string name="connection_failed_message">Không có kết nối mạng</string>
+    <string name="connection_try_again">Thử lại</string>
+</resources>
